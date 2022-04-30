@@ -1,0 +1,10 @@
+body {
+ /* Created with https://www.css-gradient.com */
+background: #3A7D99;
+background: -webkit-linear-gradient(top left, #3A7D99, #10E7FF);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
